@@ -1,0 +1,3 @@
+helper = "This bot helps you easily access FRC documentation. It was created by Bharadwaj Duggaraju in 2022. Run '!docs' to access the docs. Run '!docs section' - (replace section with the actual section) to recive the docs for a certain section of the docs. Sections are: Intro, Control Systems, Programming, API, Software, Advanced, Examples, Hardware, ROMI, Networking, Contributing and Issues."
+root = "FRC Documentation: https://docs.wpilib.org/en/stable/"
+lead = "The docs for that section can be found here:"
